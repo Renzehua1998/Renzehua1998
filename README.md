@@ -25,7 +25,5 @@
   <img alt="github-snake" src="https://github.com/Renzehua1998/Renzehua1998/blob/output/github-snake.svg">
 </picture>
 
-![github-snake](https://github.com/Renzehua1998/Renzehua1998/blob/output/github-snake-dark.svg)
-
 <img align='right' src="https://profile-counter.glitch.me/Renzehua1998/count.svg" width="200">
 
