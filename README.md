@@ -21,7 +21,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://githubfast.com/Renzehua1998/Renzehua1998/blob/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubfast.com/Renzehua1998/Renzehua1998/blob/output/github-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubfast.com/Renzehua1998/Renzehua1998/blob/main/github-snake.svg">
   <img alt="github-snake" src="https://githubfast.com/Renzehua1998/Renzehua1998/blob/output/github-snake.svg">
 </picture>
 
