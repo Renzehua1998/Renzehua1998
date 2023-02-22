@@ -35,6 +35,8 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Pycharm](http://img.shields.io/badge/-Pycharm-green?style=flat-square&logo=Pycharm&logoColor=ffffff)
 
+---
+
 ### Activity status
 
 [![Contributions in 3D](/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/marketplace/actions/github-profile-3d-contrib)
