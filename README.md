@@ -11,6 +11,9 @@
 
 <!-- ![decription](https://img.shields.io/badge/Language-Python-green)  ![decription](https://img.shields.io/badge/Language-C++-red) ![decription](https://img.shields.io/badge/Language-JavaScript-blueyellow)  ![decription](https://img.shields.io/badge/Language-MATLAB-orange) -->
 
+---
+### Technology stack 
+
 #### Langs:
 <!-- **Langs:** -->
 ![Python](https://img.shields.io/badge/Python-3373A7?style=flat-square&logo=python&logoColor=white)
@@ -32,21 +35,23 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Pycharm](http://img.shields.io/badge/-Pycharm-green?style=flat-square&logo=Pycharm&logoColor=ffffff)
 
-#### Activity status
+### Activity status
 
-[![Contributions in 3D](/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/marketplace/actions/github-profile-3d-contrib)
+[![Contributions in 3D](/profile-3d-contrib/profile-night-rainbow.svg)](https://githubfast.com/marketplace/actions/github-profile-3d-contrib)
 
 ![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=Renzehua1998&theme=vue)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Renzehua1998/Renzehua1998/blob/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Renzehua1998/Renzehua1998/blob/output/github-snake.svg">
-  <img alt="github-snake" src="https://github.com/Renzehua1998/Renzehua1998/blob/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://githubfast.com/Renzehua1998/Renzehua1998/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://githubfast.com/Renzehua1998/Renzehua1998/blob/output/github-snake.svg">
+  <img alt="github-snake" src="https://githubfast.com/Renzehua1998/Renzehua1998/blob/output/github-snake.svg">
 </picture>
 
 <img align='right' src="https://profile-counter.glitch.me/Renzehua1998/count.svg" width="200">
 
-#### Other platforms
+---
+
+### Other platforms
 
 ![bilibili](https://stats.justsong.cn/api/bilibili/?id=26575098&theme=radical) ![leetcode](https://stats.justsong.cn/api/leetcode/?username=zehua-v&cn=true&theme=radical) 
 
