@@ -37,14 +37,14 @@
 
 ### Activity status
 
-[![Contributions in 3D](/profile-3d-contrib/profile-night-rainbow.svg)](https://githubfast.com/marketplace/actions/github-profile-3d-contrib)
+[![Contributions in 3D](/profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/marketplace/actions/github-profile-3d-contrib)
 
 ![activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=Renzehua1998&theme=vue)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubfast.com/Renzehua1998/Renzehua1998/blob/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubfast.com/Renzehua1998/Renzehua1998/blob/output/github-snake.svg">
-  <img alt="github-snake" src="https://githubfast.com/Renzehua1998/Renzehua1998/blob/output/github-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Renzehua1998/Renzehua1998/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Renzehua1998/Renzehua1998/blob/output/github-snake.svg">
+  <img alt="github-snake" src="https://github.com/Renzehua1998/Renzehua1998/blob/output/github-snake.svg">
 </picture>
 
 <img align='right' src="https://profile-counter.glitch.me/Renzehua1998/count.svg" width="200">
