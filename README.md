@@ -4,7 +4,7 @@
 
 - :man_student: I'm a graduate student at Xi'an Jiaotong University, specializing in Systems Engineering.
 - :alarm_clock: I’m currently learning Algorithms, Julia language and Complex Networks theory.
-- :mailbox: How to reach me: renzehua001@qq.com
+- :mailbox: How to reach me: renzehua001@foxmail.com
 - :page_facing_up: My blog is on https://renzehua1998.github.io/ or https://renzehua.gitee.io/
 
 <!-- <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renzehua1998&theme=radical&layout=compact"  /> -->
