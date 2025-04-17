@@ -2,8 +2,8 @@
 
 <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Renzehua1998&show_icons=true&theme=radical"/>
 
-- :man_student: I'm a graduate student at Xi'an Jiaotong University, specializing in Systems Engineering.
-- :alarm_clock: I’m currently learning Algorithms, Julia language and Complex Networks theory.
+- :man_student: I'm a graduate student of Xi'an Jiaotong University, specializing in Systems Engineering.
+- :alarm_clock: My job now is Linux kernel development.
 - :mailbox: How to reach me: renzehua001@foxmail.com
 - :page_facing_up: My blog is on https://renzehua1998.github.io/ or https://renzehua.gitee.io/
 
